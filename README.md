@@ -1,6 +1,6 @@
 # Predicting-Grade
 
-                                                                Predict Your Data Structures Grade
+                                                         Predict Your Data Structures Grade
                                                                 
                                                                 
 You are given data for students’ grade in first three semesters of one of the best universities in the
@@ -37,7 +37,7 @@ The following features carry marks independent of the overall working of the alg
 you are required to strictly follow the code structure provided to you. In case of failure to follow
 the structure, you might lose marks.
 
-#Step 1. Preprocessing of the dataset
+Step 1. Preprocessing of the dataset
 
 Consider the following dataset:
   Table 1 The sample record of the student having roll number (Sr. No) 1.
@@ -69,7 +69,7 @@ Each student record (feature vector) consists of his scores of all subjects of t
 CGPA, and Warning, where we will treat CS218-Data Structures as a label or target class.
 
 
-                                          #Algorithm 1: Implement the MyBrothersInDS algorithm 
+                                              Algorithm 1: Implement the MyBrothersInDS algorithm 
                                           
                                           
   1) Load data into an appropriate data structure, and assume a variable k=10.
@@ -84,7 +84,7 @@ CGPA, and Warning, where we will treat CS218-Data Structures as a label or targe
   D in DS then your grade in DS would be B as 3 students have scored B.
   
   
-                                         #Algorithm 2: Now here is the second algorithm, named MyDSGroup:
+                                             Algorithm 2: Now here is the second algorithm, named MyDSGroup:
                                          
   1) Load data into an appropriate data structure.
   2) There are a total of thirteen (13) possible grades; A+, A, A-, B+, B, B-, C+, C, C-, D+, D,
